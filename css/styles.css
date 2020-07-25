@@ -18,4 +18,11 @@ footer{
   background-color: whitesmoke;
   padding: 20px;
 }
-
+input {
+  width: 10%;
+}
+.portfolio {
+  height: 70vh;
+  align-items: center;
+  margin: 60px;
+}
