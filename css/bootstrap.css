@@ -378,7 +378,10 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
+  text-align: center;
+  text-decoration-color: white;
+  
 }
 
 h6, .h6 {
