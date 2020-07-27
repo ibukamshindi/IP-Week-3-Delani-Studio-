@@ -19,7 +19,7 @@ At the moment there are no known issues.
 The project made use of icons and google fonts 
 ## Support and contact details
 If you want to contact me reach me at 123@gmail.com
-## Link to live site:
+## Link to live site:https://ibukamshindi.github.io/IP-Week-3-Delani-Studio-/
 ## License
 ### MIT LicenseCopyright (c) 2020 Ibukamshindi
 Permission is hereby granted, free of charge, to any person obtaining a copy
