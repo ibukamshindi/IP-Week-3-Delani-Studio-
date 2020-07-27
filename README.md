@@ -1,5 +1,5 @@
 # Dealni Studio
-#### Find your Akan Name, Version 1.0.0
+#### Delani the Studio, Version 1.0.0
 #### By **{Patrick Ibuka Mshindi}**
 ## Description
 This is landing page for a fictional studio called Delani with the following specifications 
