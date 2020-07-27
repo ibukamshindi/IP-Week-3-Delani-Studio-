@@ -1,4 +1,4 @@
-# Dealni Studio
+# Delani Studio
 #### Delani the Studio, Version 1.0.0
 #### By **{Patrick Ibuka Mshindi}**
 ## Description
