@@ -14,18 +14,16 @@
   text-align: center;
   color:white;
   background-color: whitesmoke;
-  
 }
 .contact{
   background-image: url(../assets/backgrounds/c_image.jpg);
   height: 50vh;
   width: 100%;
-
 }
 footer{
   text-align: center;
   background-color: whitesmoke;
-  padding: 20px;
+  padding: 20px; 
 }
 input {
   width: 10%;
