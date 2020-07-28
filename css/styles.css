@@ -19,6 +19,7 @@
   background-image: url(../assets/backgrounds/c_image.jpg);
   height: 50vh;
   width: 100%;
+  background-size: cover;
 }
 footer{
   text-align: center;
@@ -42,4 +43,9 @@ body {
 }
 #definitions {
   display: none;
+}
+input,textarea {
+  background: transparent;
+  border: white solid 1px;
+  color: white;
 }
